@@ -79,6 +79,20 @@ Simplicity is key, Make it scannable in a F pattern
 https://www.youtube.com/watch?v=AJ_AooqqX4U&list=PLGKhgQEJeWfZCzQ4_w8Bn5ui7eXN0rYP2&index=8
 
 
-
-
+## Lecture 8- Helping Shoppers Browse
+Good homepages or search boxes
 ***
+1) You reach and ecommerce site
+2) what products do you sell
+3) show search box, logo shopping cart and promos
+***
+  
+Good category pages is dependent on products
+***
+1) Consider a Mega menu/ Category pages
+2) Different category vs product listing page
+3) Make sure browser now where they are
+4) have sub category if it helps.
+***
+
+## Lecture 9- What else can you put on a category
