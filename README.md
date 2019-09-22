@@ -74,7 +74,7 @@ use cookies.
 ## Lecture 7: Building a Better Search Results Page
 Simplicity is key, Make it scannable in a F pattern  
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/F-pattern.png)  
-1) Image, Name, Description , Size , add To cart
+1) Image, Name,Type of wine, Description , Size, Price , add To cart
 2) Good refinement ( add mutiple filters)
 https://www.youtube.com/watch?v=AJ_AooqqX4U&list=PLGKhgQEJeWfZCzQ4_w8Bn5ui7eXN0rYP2&index=8
 
