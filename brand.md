@@ -83,4 +83,30 @@ Stylish Men’s Messenger Bags: A niche market of men’s fashion
   
 “Join my mailing list to get the best links to the newest styles of men’s messenger bags delivered to your email weekly,” and people will know exactly what they can expect to receive from you.
 
-2. 
+2. Landing Page
+Your landing page should include:  
+  
+***
+1. Your Name/Your Business’ Name
+2. Your Unique Value Proposition (“Sign up to get a weekly email of the cutest baby pug photos!”)
+3. Your Email Capture Field
+4. Links to any Social Media
+***
+  
+3. Capture Email  
+One of the best tools for email capture is MailChimp (Free/Paid)  
+  
+4. CURATE/DELIVER CONTENT  
+There are different types of content you can send out to your audience. Some examples include:  
+  
+***
+1) Products: Share the hottest new products in your niche.  
+2) Blog Posts: Share new and highly curated blog posts relevant to your audience.  
+3) Links/Resources: Depending on your niche, curating links and resources might contain lots of value for your audience.  
+***
+
+## Marketing and Growing Your List
+1. Broadcast on Social Media Platforms: 
+2. Go Where Your Niche Market Goes: 
+3. Pay for Some Ads:
+4. Be Consistent:
