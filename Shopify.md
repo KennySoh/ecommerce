@@ -42,3 +42,5 @@
 - Refund, privacy, and TOS statements
   - Generate sample refund policy
 ***
+## Notifications
+Managing Email Notifications, Orders,Shipping,etc
