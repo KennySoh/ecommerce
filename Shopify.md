@@ -44,3 +44,44 @@
 ***
 ## Notifications
 Managing Email Notifications, Orders,Shipping,etc
+## Your Account
+***
+Staff account, credit card , invoices
+***
+
+# Section 3: Start building an online store
+## Preference
+***
+- Title and meta description
+  - For SEO
+- Google Analytics
+- Facebook Pixel( Creating facebook ads)
+- Password page ( Diable for public, password protected)
+***
+## Adding a Refund Policy, Term of Service, Privacy
+***
+- Add Page
+  - Title, Content, Search Engine Listing Preview
+  
+Settings>>Legal (To find term fo service)
+***
+
+## Adding an About us Page
+***
+- If a 3 men band write about why we are starting this?
+***
+
+## Adding a Contact Us Page
+***
+- Add Page
+  - Template -> page.contact ( Make a contact us form) 
+  - "Please use the form below to contact us:" 
+***
+
+## Creating A Menu
+***
+- Navigation
+  - Add Menu 
+  - Main Menu (Home, Catalog, About Us, Contact Us)
+    - Add Menu items -> Name, Page)
+***
