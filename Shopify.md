@@ -112,6 +112,11 @@ Settings>>Legal (To find term fo service)
 ## Adding a logo
 ***
 - fiverr -> Logo design ($5)
-- 
+- canva.com (diy logo)
+***
 
+## Adding a home page slider
+***
+- Burst.shopify.com (Free images!)
+- iStock.com
 ***
