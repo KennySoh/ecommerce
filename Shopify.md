@@ -83,5 +83,35 @@ Settings>>Legal (To find term fo service)
 - Navigation
   - Add Menu 
   - Main Menu (Home, Catalog, About Us, Contact Us)
-    - Add Menu items -> Name, Page)
+    - Add Menu items -> (Name, Page)
+***
+## Adding a blog
+***
+- Blog posts
+  - Title, Content, Tags (Keyword)
+***
+
+# Theme
+***
+- Customize theme
+- More themes
+  - Publish ( Make it current theme)
+***
+
+## Deeper dive into POP theme
+***
+- Sections
+  - Logo menu, Slideshow, Featured collections, Add Section (Customizing current page)
+- General Settings
+  - Colors, Typography, Favicon, Cart Page, Soial media, Checkout
+- More Action
+  - Edit Code
+  - Liquid (Drives the theme design)
+***
+
+## Adding a logo
+***
+- fiverr -> Logo design ($5)
+- 
+
 ***
