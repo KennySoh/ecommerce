@@ -122,6 +122,7 @@ Settings>>Legal (To find term fo service)
 ***
 
 # Section 5: Adding Products
+## Adding a Simple/ Variant Products
 ***
 - Simple Product ( No variants such as color, size)
 - Title, Description, Images
@@ -129,9 +130,15 @@ Settings>>Legal (To find term fo service)
 - Inventory (SKU, Quantity , dont track inventory
 - Shipping (Price base or weight based shipping)
 - Variants (Add variant)
+  - Option name (Frog, Monkey, Giraffe)
 - Sales channels ( Amazon , online store etc)
 - Organisation ( Product type, Vendor, Collections, Tags)
 ***
 
-
+## Create Collection
+***
+- Title, Description
+- Condition 
+  - Manually select, Each product u can select collection
+  - Automatically based on product tags
 ***
