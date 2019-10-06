@@ -120,3 +120,18 @@ Settings>>Legal (To find term fo service)
 - Burst.shopify.com (Free images!)
 - iStock.com
 ***
+
+# Section 5: Adding Products
+***
+- Simple Product ( No variants such as color, size)
+- Title, Description, Images
+- Pricing ( compare at cross-out price)
+- Inventory (SKU, Quantity , dont track inventory
+- Shipping (Price base or weight based shipping)
+- Variants (Add variant)
+- Sales channels ( Amazon , online store etc)
+- Organisation ( Product type, Vendor, Collections, Tags)
+***
+
+
+***
