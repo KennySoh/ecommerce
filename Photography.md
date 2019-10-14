@@ -31,6 +31,27 @@ Standard must have for pale white background
 ### Plan
 ***
 - what your branded lifestyle images ?
-  - who is it for, whats the value.
-- 
+  - who is it for, whats the value. (pinterest mood board)
+- What white photos do I need to take for my business
+  - list of photos ( angles, using tool?)
+  - take a collection of dummy photo with phone
+***
+
+### How do I setup my Studio
+***
+- Do not use light tent or flash
+  - window light
+  - board , white foam core, some black board
+  - tripod
+- Camera, Lighting, Exposure
+  - Smart Phone , Pixelated
+    - Closer make center looks much bigger, zoom in'
+    - adobe lightroom
+- Point and shoot 
+  - Exposure compensation to make brighter
+  - Use bounce card to make brighter or darker
+- DSLR camera
+  - tethered, can shoot from camera into computer
+  - Exposure setting to auto, long usb cable. tether capture..... year month day
+  
 ***
