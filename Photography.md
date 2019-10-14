@@ -15,6 +15,20 @@ https://www.bigcommerce.com/blog/how-to-rock-product-photography-on-a-budget/#ba
 - Optional: Adobe Lightroom. This is the recommended app for edits and photography when you start Module 3.
 ***
 
+
+1 x Tripod - $100
+https://sg.carousell.com/p/po-beike-qzsd-q999h-tripod-242632224?t-id=vfbqHkfDL6_1571062642367&t-referrer_browse_type=search_results&t-referrer_sort_by=popular
+
+1x Tethring Cable -$14
+https://www.ubuy.com.sg/catalog/product/view/id/10495853/s/usb-cable-for-nikon-dslr-d3400-camera-for-nikon-dslr-d3400-usb-comp?gclid=EAIaIQobChMIoMzVuvub5QIVw5WPCh3GdA7bEAQYAyABEgJ7DvD_BwE
+
+2x Soft Box -$50
+https://sg.carousell.com/p/photoshoot-softbox-light-kit-256382631?t-id=vfbqHkfDL6_1571062642367&t-referrer_browse_type=search_results&t-referrer_sort_by=popular
+
+5x White/black Bounce card - go art friend to find 
+
+1x Clamp 
+1x Paper Roll
 ### Brand identity
 ***
 - Step #1: Create an account on Pinterest (for free). You will use this platform to create your mood board. You could also use Instagram, Google Keep or use magazine/print images to create your mood board if you prefer. 
