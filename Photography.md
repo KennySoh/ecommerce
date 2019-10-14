@@ -32,9 +32,11 @@ Standard must have for pale white background
 ***
 - what your branded lifestyle images ?
   - who is it for, whats the value. (pinterest mood board)
+  - show your product being used in its intended environment or alongside complementing products.
 - What white photos do I need to take for my business
   - list of photos ( angles, using tool?)
   - take a collection of dummy photo with phone
+  - Product-only images
 ***
 
 ### How do I setup my Studio
@@ -54,4 +56,27 @@ Standard must have for pale white background
   - tethered, can shoot from camera into computer
   - Exposure setting to auto, long usb cable. tether capture..... year month day
   
+***
+### Materials
+- Clamps
+- at least 2x soft box light setup
+
+### Postprocessing
+- Optimize for seo
+- Light room touch up.
+
+### Camera Settings
+https://woocommerce.com/posts/ecommerce-photography-tips/  
+***
+- ISO
+  - ISO refers to your camera’s sensitivity to light. Most photographers use an ISO between 100 and 1600. The higher the number, the more sensitive it will be and the more light it’ll gather. As the ISO goes up, the photos also get grainier and less crisp.
+  - use low ISO, start at 200
+- Aperture 
+  - The aperture controls the amount of light that passes through the camera lens. It also determines the depth of field of your shot, which is the area of the image that is in focus.
+  - Aperture is measured through f-stop, and it ranges from f/1 to f22. 
+  - High Aprature f16- f22 , make ur products in full focus
+  - Low Aprature, Makes blured background, shallow depth of field. 
+- Shutter Speed
+  -  determines the amount of time your camera sensor is exposed to light. Images will appear motionless at faster shutter speeds, while slower speeds can blur subjects in motion.
+  - a low shutter speed – such as 1/13 – is recommended, on tripod
 ***
