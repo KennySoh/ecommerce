@@ -96,5 +96,5 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
 ***
  
  Arperture | Shutter | ISO  
- 1/4  | 22 | 125  
+ 1/3  | 22 | 125  
  1/60 | 5 | 125  
