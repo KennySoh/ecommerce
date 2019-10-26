@@ -94,3 +94,7 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
   -  determines the amount of time your camera sensor is exposed to light. Images will appear motionless at faster shutter speeds, while slower speeds can blur subjects in motion.
   - a low shutter speed – such as 1/13 – is recommended, on tripod
 ***
+ 
+ Arperture | Shutter | ISO
+ 1/4  | 22 | 125
+ 1/60 | 5 | 125
