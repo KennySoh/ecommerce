@@ -103,12 +103,12 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
  1/60 | 5 | 125  
 
 ## WorkFlow
-Solarized dark             |  Solarized Ocean
+Front (Flatlay)             |  Back(Flatlay)
 :-------------------------:|:-------------------------:
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+Left leaning(45 angle)             |  Right leaning(45 angle)
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
+|Product|
 
 
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)
