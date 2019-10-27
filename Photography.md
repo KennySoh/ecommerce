@@ -108,6 +108,10 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
  
 ### Image Optimisation
 https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips  
+***
+1) Naming your images descriptively
+  - 2012-Ford-Mustang-LX-Red.jpg.
+***
 ## WorkFlow
 
 ### PhotoTaking
