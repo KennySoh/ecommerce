@@ -98,10 +98,13 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
   - a low shutter speed – such as 1/13 – is recommended, on tripod
 ***
  
- Arperture | Shutter | ISO  
+ Arperture | Shutter | ISO 
+ :-------------------------:|:-------------------------: | :-------------------------: |
  1/3  | 22 | 125  
  1/60 | 5 | 125  
-
+ 
+### Image Optimisation
+https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips  
 ## WorkFlow
 
 ### PhotoTaking
@@ -118,5 +121,4 @@ Left leaning(45 angle)             |  Right leaning(45 angle)
 |Product Features| Life Style Shot|
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT5.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT6.jpg)
 
-### Image Optimisation
-https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips  
+
