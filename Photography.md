@@ -103,6 +103,13 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
  1/60 | 5 | 125  
 
 ## WorkFlow
+
+### PhotoTaking
+FlatLay             |  45 Angle| Straight Angle
+:-------------------------:|:-------------------------: |
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) |![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
+
+
 Front (Flatlay)             |  Back(Flatlay)
 :-------------------------:|:-------------------------:
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
