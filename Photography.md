@@ -1,3 +1,22 @@
+# WorkFlow
+
+### PhotoTaking
+FlatLay             |  45 Angle| Straight Angle
+:-------------------------:|:-------------------------: | :-------------------------: |
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) |![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) 
+
+
+Front (Flatlay)             |  Back(Flatlay)
+:-------------------------:|:-------------------------:
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
+Left leaning(45 angle)             |  Right leaning(45 angle)
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT3.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT4.jpg)
+|Product Features| Life Style Shot|
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT5.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT6.jpg)
+
+
+# Detailed Informations
+#### Starting guides
 https://academy.shopify.com/outline/0bx4ha83/activities/Qh661B5Cm
 https://www.bigcommerce.com/blog/how-to-rock-product-photography-on-a-budget/#basic-product-photography-equipment-and-process
 
@@ -124,20 +143,5 @@ https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips
   - Smaller less quality image -> For better load speed
 - Use image sitemaps ( For fancy js galleries)
 ***
-## WorkFlow
-
-### PhotoTaking
-FlatLay             |  45 Angle| Straight Angle
-:-------------------------:|:-------------------------: | :-------------------------: |
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) |![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) 
-
-
-Front (Flatlay)             |  Back(Flatlay)
-:-------------------------:|:-------------------------:
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
-Left leaning(45 angle)             |  Right leaning(45 angle)
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT3.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT4.jpg)
-|Product Features| Life Style Shot|
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT5.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT6.jpg)
 
 
