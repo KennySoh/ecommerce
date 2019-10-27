@@ -102,4 +102,7 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
  1/3  | 22 | 125  
  1/60 | 5 | 125  
 
-### WorkFlow
+## WorkFlow
+
+### Image Optimisation
+https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips  
