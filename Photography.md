@@ -78,6 +78,9 @@ Standard must have for pale white background
 ### Postprocessing
 - Optimize for seo
 - Light room touch up.
+  - Spot Removal. Lightroom 
+  - Watermark https://www.lightroompresets.com/blogs/pretty-presets-blog/6162226-4-easy-steps-for-creating-a-watermark-in-lightroom  
+- Export Lightroom https://blog.jpegmini.com/the-best-way-to-export-from-lightroom-for-web/  
 
 ### Camera Settings
 https://woocommerce.com/posts/ecommerce-photography-tips/  
@@ -98,3 +101,5 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
  Arperture | Shutter | ISO  
  1/3  | 22 | 125  
  1/60 | 5 | 125  
+
+### WorkFlow
