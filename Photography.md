@@ -108,5 +108,6 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT3.jpg)
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT4.jpg)
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT5.jpg)
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT6.jpg)
 ### Image Optimisation
 https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips  
