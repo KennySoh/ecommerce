@@ -103,6 +103,6 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
  1/60 | 5 | 125  
 
 ## WorkFlow
-![images](https://github.com/KennySoh/ecommerce/tree/master/pics/LRT_00001.jpg)
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT_00001.jpg)
 ### Image Optimisation
 https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips  
