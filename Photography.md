@@ -5,6 +5,10 @@ FlatLay             |  45 Angle| Straight Angle
 :-------------------------:|:-------------------------: | :-------------------------: |
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) |![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) 
 
+ Arperture | Shutter | ISO  | Presets 
+ :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------: |
+ 1/3  | 22 | 125  | Full Focus
+ 1/60 | 5 | 125  | Blured Background
 
 Front (Flatlay)             |  Back(Flatlay)
 :-------------------------:|:-------------------------:
