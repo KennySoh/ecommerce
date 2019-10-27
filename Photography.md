@@ -148,4 +148,10 @@ https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips
 - Use image sitemaps ( For fancy js galleries)
 ***
 
+https://help.shopify.com/en/manual/products/product-variant-images
 
+* Your product and collection images can be any size up to 4472 x 4472 px, or 20 megapixels. Product and collection images need to have a file size smaller than 20 MB to be added to Shopify.
+
+High resolution photos look more polished and professional to your customers. For square product images, a size of 2048 x 2048 px usually looks best.
+
+The first image for each product is known as the featured, or main, image. The featured image is shown on collection pages, the cart page, the checkout page, and your home page.
