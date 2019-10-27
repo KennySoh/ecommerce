@@ -103,6 +103,10 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
  1/60 | 5 | 125  
 
 ## WorkFlow
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
+
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT3.jpg)
