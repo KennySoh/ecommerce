@@ -107,15 +107,9 @@ Front (Flatlay)             |  Back(Flatlay)
 :-------------------------:|:-------------------------:
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
 Left leaning(45 angle)             |  Right leaning(45 angle)
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
-|Product|
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT3.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT4.jpg)
+|Product Features| Life Style Shot|
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT5.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT6.jpg)
 
-
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT3.jpg)
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT4.jpg)
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT5.jpg)
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT6.jpg)
 ### Image Optimisation
 https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips  
