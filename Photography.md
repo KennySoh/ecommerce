@@ -109,8 +109,20 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
 ### Image Optimisation
 https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips  
 ***
-1) Naming your images descriptively
+- Naming your images descriptively
   - 2012-Ford-Mustang-LX-Red.jpg.
+  - TolsenTools-30007-Folding-Utility-Pen-Knife-with-5-Piece-Blade-Set.jpg
+  - (BrandName-Model-Title-Variant).jpg <- Naming convention
+- Optimize your alt attributes carefully
+  - add alts similar to picture name
+  - 2012 Ford Mustang LX Red
+- Mutliple Angles SEO Name
+  - 2012-Ford-Mustang-LX-Red-inner-rim.jpg.
+- File Type
+  - In most cases in ecommerce, JPEGs will be your best bet. They provide the best quality for the smallest file size.
+- Optimize your thumbnails
+  - Smaller less quality image -> For better load speed
+- Use image sitemaps ( For fancy js galleries)
 ***
 ## WorkFlow
 
