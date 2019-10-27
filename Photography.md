@@ -81,7 +81,10 @@ Standard must have for pale white background
   - Spot Removal. Lightroom 
   - Watermark https://www.lightroompresets.com/blogs/pretty-presets-blog/6162226-4-easy-steps-for-creating-a-watermark-in-lightroom  
 - Export Lightroom https://blog.jpegmini.com/the-best-way-to-export-from-lightroom-for-web/  
-
+  - Export Quality
+    - Quality100  | Quality80 | Quality60 |Quality125k
+    - 1600px Longside
+    - Watermark
 ### Camera Settings
 https://woocommerce.com/posts/ecommerce-photography-tips/  
 ***
