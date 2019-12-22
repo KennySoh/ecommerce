@@ -145,7 +145,7 @@ Settings>>Legal (To find term fo service)
 
 ## Adding Produts in Bulk 
 ***
-1. Key in details in Produt-details.csv > Carousell Sheet 
+1. Key in details in Produt-details.csv > Carousell Sheet   
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/product-bulk1.png)  
 2. Auto Generated on in Produt-details.csv > Shopify Sheet  
     - Copy and paste values in Shopify_values edits Sheet   
@@ -155,6 +155,7 @@ Settings>>Legal (To find term fo service)
   - Change image names -> to tolsen-10400-3pcs-plier-set.jpg
   - Add into Settings>Files
   - Copy CDN links into ShopifyImage Sheet
+  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/product-bulk3.png) 
 5. Import into Shopify.
 
 ***
