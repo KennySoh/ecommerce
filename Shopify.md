@@ -142,3 +142,20 @@ Settings>>Legal (To find term fo service)
   - Manually select, Each product u can select collection
   - Automatically based on product tags
 ***
+
+## Adding Produts in Bulk 
+***
+1. Key in details in Produt-details.csv > Carousell Sheet 
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/product-bulk1.png)  
+2. Auto Generated on in Produt-details.csv > Shopify Sheet  
+    - Copy and paste values in Shopify_values edits Sheet   
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/product-bulk2.png) 
+3. Add in Collection tags into Shopify_values edit Sheet . Reference Collection tags sheet
+4. Copy and paste into ShopifyImage and Start adding Image
+  - Change image names -> to tolsen-10400-3pcs-plier-set.jpg
+  - Add into Settings>Files
+  - Copy CDN links into ShopifyImage Sheet
+5. Import into Shopify.
+
+***
+
