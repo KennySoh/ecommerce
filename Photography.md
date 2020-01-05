@@ -5,7 +5,7 @@ FlatLay             |  45 Angle| Straight Angle
 :-------------------------:|:-------------------------: | :-------------------------: |
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) |![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) 
 
- Arperture | Shutter | ISO  | Presets 
+ Shutter |  Arperture | ISO  | Presets 
  :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------: |
  1/3  | 22 | 125  | Full Focus
  1/60 | 5 | 125  | Blured Background
@@ -22,7 +22,7 @@ Left leaning(45 angle)             |  Right leaning(45 angle)
 
 1. Setting the nikon d5300  
 
- Arperture | Shutter | ISO  | Presets 
+ Shutter |  Arperture | ISO  | Presets 
  :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------: |
  1/400  | f3.5 | 125  | Free Hand Shots
  
@@ -133,10 +133,10 @@ https://woocommerce.com/posts/ecommerce-photography-tips/
   - a low shutter speed – such as 1/13 – is recommended, on tripod
 ***
  
- Arperture | Shutter | ISO  | Presets 
+ Shutter |  Arperture | ISO  | Presets 
  :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------: |
- 1/3  | 22 | 125  | Full Focus
- 1/60 | 5 | 125  | Blured Background
+ 1/3  | f22 | 125  | Full Focus
+ 1/60 | f5 | 125  | Blured Background
  
 ### Image Optimisation
 https://www.shopify.com/blog/7412852-10-must-know-image-optimization-tips  
