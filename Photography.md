@@ -30,6 +30,7 @@ FlatLay             |  45 Angle| Straight Angle
  :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------: |
  1/3  | 22 | 125  | Full Focus
  1/60 | 5 | 125  | Blured Background
+  1/400  | f3.5 | 125  | Free Hand Shots
 
 Front (Flatlay)             |  Back(Flatlay)
 :-------------------------:|:-------------------------:
@@ -39,6 +40,15 @@ Left leaning(45 angle)             |  Right leaning(45 angle)
 |Product Features| Life Style Shot|
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT5.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT6.jpg)
 
+### Lightroom live-processing
+***
+1. crop to 1:1 aspect ratio
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-3.jpg)
+2. rearrange photo based on how u want to show on ecommerce
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-4.jpg)
+3. adjust exposure,contrast and Sync to all.
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-5.jpg)
+***
 # Detailed Informations
 #### Starting guides
 https://academy.shopify.com/outline/0bx4ha83/activities/Qh661B5Cm
