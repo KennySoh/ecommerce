@@ -33,12 +33,12 @@ Left leaning(45 angle)             |  Right leaning(45 angle)
  2. Tether to Lightroom   
  ***
  - Tethering cable from camera to macbook
- - lightoom -> file>>Tether Capture>> start tether capture ( folder: session2)
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-1.jpg)
+ - lightoom -> file>>Tether Capture>> start tether capture ( folder: session2)  
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-1.png)
  ***
    
- 3. 45 angled, Free hand Flatlay, product features  
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-2.jpg)
+ 3. 45 angled, Free hand Flatlay, product features    
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-2.jpeg)  
  
 # Detailed Informations
 #### Starting guides
