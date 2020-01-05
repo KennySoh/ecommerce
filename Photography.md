@@ -43,11 +43,11 @@ Left leaning(45 angle)             |  Right leaning(45 angle)
 ### Lightroom live-processing
 ***
 1. crop to 1:1 aspect ratio
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-3.jpg)
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-3.png)
 2. rearrange photo based on how u want to show on ecommerce
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-4.jpg)
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-4.png)
 3. adjust exposure,contrast and Sync to all.
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-5.jpg)
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-5.png)
 ***
 # Detailed Informations
 #### Starting guides
