@@ -53,11 +53,12 @@ Left leaning(45 angle)             |  Right leaning(45 angle)
 ### Lightroom post-processing
 ***
 1. Export use quality100 for personal copy, quality256k for both shopify and carousell
+ - Quality100, no exposure or contrast for personal copy
  - watermark1,2 for shopify and carousell respectively
  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-6.png)
-2. Spot removal 
-3. File naming convention for photos, put in google drive
+2. File naming convention for photos, put in google drive
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-7.png)
+3. Spot removal 
 4. change photo names via bash script  
 https://unix.stackexchange.com/questions/181073/rename-files-based-on-directory-names
 ***
