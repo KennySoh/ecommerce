@@ -30,6 +30,16 @@ Left leaning(45 angle)             |  Right leaning(45 angle)
  :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------: |
  1/400  | f3.5 | 125  | Free Hand Shots
  
+ 2. Tether to Lightroom   
+ ***
+ - Tethering cable from camera to macbook
+ - lightoom -> file>>Tether Capture>> start tether capture ( folder: session2)
+ https://github.com/KennySoh/ecommerce/blob/master/pics/cs-1.jpg
+ ***
+   
+ 3. 45 angled, Free hand Flatlay, product features  
+  https://github.com/KennySoh/ecommerce/blob/master/pics/cs-2.jpg
+ 
 # Detailed Informations
 #### Starting guides
 https://academy.shopify.com/outline/0bx4ha83/activities/Qh661B5Cm
