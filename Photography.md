@@ -42,12 +42,24 @@ Left leaning(45 angle)             |  Right leaning(45 angle)
 
 ### Lightroom live-processing
 ***
-1. crop to 1:1 aspect ratio
+1. crop to 1:1 aspect ratio  
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-3.png)
-2. rearrange photo based on how u want to show on ecommerce
+2. rearrange photo based on how u want to show on ecommerce  
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-4.png)
-3. adjust exposure,contrast and Sync to all.
+3. adjust exposure,contrast and Sync to all.  
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-5.png)
+***
+
+### Lightroom post-processing
+***
+1. Export use quality100 for personal copy, quality256k for both shopify and carousell
+ - watermark1,2 for shopify and carousell respectively
+ ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-6.png)
+2. Spot removal 
+3. File naming convention for photos, put in google drive
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-7.png)
+4. change photo names via bash script  
+https://unix.stackexchange.com/questions/181073/rename-files-based-on-directory-names
 ***
 # Detailed Informations
 #### Starting guides
