@@ -1,23 +1,4 @@
 # WorkFlow
-
-### PhotoTaking
-FlatLay             |  45 Angle| Straight Angle
-:-------------------------:|:-------------------------: | :-------------------------: |
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) |![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) 
-
- Shutter |  Arperture | ISO  | Presets 
- :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------: |
- 1/3  | 22 | 125  | Full Focus
- 1/60 | 5 | 125  | Blured Background
-
-Front (Flatlay)             |  Back(Flatlay)
-:-------------------------:|:-------------------------:
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
-Left leaning(45 angle)             |  Right leaning(45 angle)
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT3.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT4.jpg)
-|Product Features| Life Style Shot|
-![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT5.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT6.jpg)
-
 #### Getting Started 
 
 1. Setting the nikon d5300 , adjusts the settings 
@@ -40,6 +21,24 @@ Left leaning(45 angle)             |  Right leaning(45 angle)
  3. 45 angled, Free hand Flatlay, product features    
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/cs-2.jpeg)  
  
+ ### PhotoTaking
+FlatLay             |  45 Angle| Straight Angle
+:-------------------------:|:-------------------------: | :-------------------------: |
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) |![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg) 
+
+ Shutter |  Arperture | ISO  | Presets 
+ :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------: |
+ 1/3  | 22 | 125  | Full Focus
+ 1/60 | 5 | 125  | Blured Background
+
+Front (Flatlay)             |  Back(Flatlay)
+:-------------------------:|:-------------------------:
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT1.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT2.jpg)
+Left leaning(45 angle)             |  Right leaning(45 angle)
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT3.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT4.jpg)
+|Product Features| Life Style Shot|
+![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT5.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT6.jpg)
+
 # Detailed Informations
 #### Starting guides
 https://academy.shopify.com/outline/0bx4ha83/activities/Qh661B5Cm
