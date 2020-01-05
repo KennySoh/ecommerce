@@ -18,6 +18,15 @@ Left leaning(45 angle)             |  Right leaning(45 angle)
 |Product Features| Life Style Shot|
 ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT5.jpg)  |  ![images](https://github.com/KennySoh/ecommerce/blob/master/pics/LRT6.jpg)
 
+#### Getting Started
+
+1. Setting the nikon d5300  
+
+ Arperture | Shutter | ISO  | Presets 
+ :-------------------------:|:-------------------------: | :-------------------------: | :-------------------------: |
+ 1/400  | f3.5 | 125  | Free Hand Shots
+ 
+ 
 
 # Detailed Informations
 #### Starting guides
