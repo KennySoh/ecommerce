@@ -96,3 +96,4 @@ Good category pages is dependent on products
 ***
 
 ## Lecture 9- What else can you put on a category
+## Lecture 13- Product Information
