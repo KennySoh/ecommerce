@@ -97,3 +97,23 @@ Good category pages is dependent on products
 
 ## Lecture 9- What else can you put on a category
 ## Lecture 13- Product Information
+- Product Detail 
+- Product Feature
+- 
+***
+1. Sizes and colors the product comes in
+2. Dimensions
+3. Tech spec
+4. Warranty
+5. Materials or Ingredient
+6. Care instructions
+7. Packaging Information 
+8. Special features
+9. Explanation 
+***
+***
+- Shipping and returns 
+- Avaliability (Creates Urgency Effect) 
+- Customer Reviews
+- Suggest other product
+***
